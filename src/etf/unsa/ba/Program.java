@@ -135,7 +135,7 @@ public class Program {
             try {
                 return Double.parseDouble(m.group(0).split("<td>")[1].split("</td>")[0]);
             } catch(Exception e) {
-                return -1;
+                return 0;
             }
         }
     }
