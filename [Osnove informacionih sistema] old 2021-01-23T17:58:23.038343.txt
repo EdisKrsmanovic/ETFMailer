@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Status predmeta</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="static/css/zamger.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="static/css/print.css" type="text/css" media="print">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://zamger.etf.unsa.ba/hybrid/rss.php?id=8DoGqNxRiL"></head>
+<body style="margin:0px" bgcolor="#FFFFFF">
+
+<script type="text/javascript" src="static/js/stablo.js"></script> <!-- Cesto koristena skripta -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr bgcolor="#BBBBFF">
+		<!--td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr-->
+			<td width="50%">&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="index.php"><img src="static/images/etf-50x50.png" width="50" height="50" border="0" alt="ETF"></a>
+			</td><td width="50%" align="right">
+			<font color="#FFFFFF" size="5">
+			<b><a href="index.php"><font color="#FFFFFF">ZAMGER v6 beta</font></a>&nbsp;</b></font><br>
+			<font color="#FFFFFF" size="1">
+			<a href="static/doc/zamger-uputstva-42-nastavnik.pdf" target="_new">
+			<img src="static/images/16x16/docs.png" width="16" height="16" border="0" style="vertical-align:middle" alt="Uputstva">&nbsp;
+			Uputstva</a>&nbsp;&nbsp;&nbsp;
+			<a href="https://github.com/etf-sarajevo/zamger/issues" target="_new">
+			<img src="static/images/16x16/bug.png" width="16" height="16" border="0" style="vertical-align:middle" alt="Prijavite bug">&nbsp;
+			Prijavite bug</a>&nbsp;&nbsp;&nbsp;</font>
+			</td>
+		<!--/tr></table></td-->
+	</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+	<tr><td valign="top" align="left">
+
+
+<div id="kocka" style="position:absolute;right:10px;top:55px">
+	<table style="border:1px;border-style:solid"><tr><td>
+	<img src="static/images/fnord.gif" width="200" height="1" alt="fnord"><br>
+	<img src="static/images/16x16/user.png" border="0" alt="fnord"> Edis Krsmanović<br>
+	<a href="?sta=common/inbox">Poruke</a> * <a href="?sta=common/profil">Profil</a> * <a href="?sta=logout">Odjava</a>
+	</td></tr></table>
+</div>
+
+	<table width="100%" border="0" cellspacing="4" cellpadding="0">
+		<tr><td valign="top">
+			<img src="static/images/fnord.gif" width="197" height="1"><br/><br/>
+						<a href="?sta=student/intro">&lt;-- Nazad na početnu</a>
+			<table border="0" cellspacing="2" cellpadding="1"><tr><td colspan="2"><br/><img src="static/images/fnord.gif" width="1" height="2"><br/><b>Zimski semestar 2020/2021:</b><br/><br/></td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/down_red.png" align="bottom" border="0"></td>
+<td><b>Osnove informacionih sistema</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="?sta=student/anketa&predmet=72&ag=16&sm_arhiva=0">Bolonjska anketa (zimski semestar)</a><br/>
+</td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/left_red.png" align="bottom" border="0"></td>
+<td><a href="?sta=student/predmet&predmet=7&ag=16&sm_arhiva=0">Osnove operacionih istraživanja</a></td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/left_red.png" align="bottom" border="0"></td>
+<td><a href="?sta=student/predmet&predmet=2231&ag=16&sm_arhiva=0">Programski jezici i prevodioci</a></td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/left_red.png" align="bottom" border="0"></td>
+<td><a href="?sta=student/predmet&predmet=24&ag=16&sm_arhiva=0">Računarska grafika</a></td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/left_red.png" align="bottom" border="0"></td>
+<td><a href="?sta=student/predmet&predmet=2229&ag=16&sm_arhiva=0">Verifikacija i validacija softvera</a></td></tr>
+<tr><td valign="top" style="padding-top:2px;"><img src="static/images/left_red.png" align="bottom" border="0"></td>
+<td><a href="?sta=student/predmet&predmet=109&ag=16&sm_arhiva=0">Web tehnologije</a></td></tr>
+</table>
+			
+			<br />
+						<a href="/hybrid/index.php?sta=student%2Fpredmet&amp;predmet=72&amp;ag=16&amp;sm_arhiva=0&sm_arhiva=1">Prikaži arhivirane predmete</a>
+						<br /><br />
+			<img src="static/images/plus.png" width="13" height="13" id="img-dokumenti" onclick="daj_stablo('dokumenti')">
+			<a href="#" onclick="daj_stablo('dokumenti'); return false;">Dokumenti</a><br />
+			<div id="dokumenti" style="display:none">
+				&nbsp;&nbsp;&nbsp; <a href="?sta=student/potvrda">Zahtjev za ovjereno uvjerenje</a> <i><font color="red">NOVO!</font></i><br />
+				&nbsp;&nbsp;&nbsp; <a href="?sta=izvjestaj/index&student=6201">Uvjerenje o položenim predmetima</a><br />
+				&nbsp;&nbsp;&nbsp; <a href="?sta=izvjestaj/progress&student=6201&razdvoji_ispite=1">Pregled ostvarenog rezultata</a><br />
+								&nbsp;&nbsp;&nbsp; <a href="?sta=student/ugovoroucenju">Ugovor o učenju</a><br />
+												&nbsp;&nbsp;&nbsp; <a href="?sta=student/prijava_ispita">Prijava ispita</a><br />
+								&nbsp;&nbsp;&nbsp; Promjena odsjeka <i><font color="red">USKORO!</font></i><br />
+								&nbsp;&nbsp;&nbsp; <a href="?sta=student/kolizija">Zahtjev za koliziju</a><br />
+												&nbsp;&nbsp;&nbsp; <a href="?sta=student/prosjeci">Prosjeci po godinama</a><br />
+							</div>
+			<br /><br />
+			Subota, 23. januar 2021.		</td>
+		<td width="1" bgcolor="#888888"><img src="static/images/fnord.gif" width="1" height="1"></td>
+		<td width="5" bgcolor="#FFFFFF"><img src="static/images/fnord.gif" width="5" height="1"></td>
+		<td width="100%" valign="top">
+			<br/>
+	<p style="font-size: small;">Predmet: <b>Osnove informacionih sistema (2020/2021)</b><br/>
+	</p><br/>
+<b>Odgovorni nastavnik</b>: <a href="mailto:">Doc. dr Anel Tanović dipl.ing.el.</a><br/><b>Asistent - istaknuti stručnjak iz prakse</b>: <a href="mailto:khalilovic@etf.unsa.ba">Kenan Halilović dipl.ing.el.</a><br/>	
+	
+	<!-- progress bar -->
+	
+	<center><table border="0"><tr><td align="left">
+	<p>Osvojili ste....<br/>
+	<table style="border:1px;border-style:solid" width="206" cellpadding="0" cellspacing="2"><tr>
+	<td width="166" bgcolor="#00FF00"><img src="static/images/fnord.gif" width="166" height="1"><br> 50 bodova</td>
+	<td width="34" bgcolor="#FFFFFF"><img src="static/images/fnord.gif" width="34" height="10"></td></tr></table>
+	
+	<table width="208" border="0" cellspacing="0" cellpadding="0"><tr>
+	<td width="68">0</td>
+	<td align="center" width="68">50</td>
+	<td align="right" width="69">100</td></tr></table>
+	što je 83% od trenutno mogućih 60 bodova.</p>
+	</td></tr></table></center>
+
+	
+	<!-- end progress bar -->
+	
+		<b>Prisustvo:</b><br/>
+		<table cellspacing="0" cellpadding="2" border="0" id="prisustvo" class="prisustvo">
+			<tr>
+				<th>Datum</th>
+				<td>20.10</td>
+<td>27.10</td>
+<td>03.11</td>
+<td>10.11</td>
+<td>17.11</td>
+<td>24.11</td>
+<td>01.12</td>
+<td>01.12</td>
+<td>15.12</td>
+<td>22.12</td>
+<td>29.12</td>
+<td>05.01</td>
+<td>12.01</td>
+			</tr>
+			<tr>
+				<th>Vrijeme</th>
+				<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+<td>17<sup>00</sup></td>
+			</tr>
+			<tr>
+				<th>Prisutan</th>
+				<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+<td bgcolor="#CCFFCC" align="center">DA</td>
+			</tr>
+		</table>
+		</p>
+		
+		<p>Ukupno na prisustvo imate <b>10</b> bodova.</p>
+		
+		<!-- zadace -->
+
+		<b>Zadaća:</b><br/>
+		<table cellspacing="0" cellpadding="2" border="0" id="zadace1616" class="zadace">
+			<thead>
+				<tr>
+		<td>Z1</td><td>Projekat</td>					<td><b>Ukupno bodova</b></td>
+				</tr>
+			</thead>
+			<tbody>
+								<td><img src="static/images/16x16/ok.png" width="16" height="16" border="0" align="center" title="Zadaća OK" alt="Zadaća OK"> 6.5 / 10</td>
+										<td><img src="static/images/16x16/ok.png" width="16" height="16" border="0" align="center" title="Zadaća OK" alt="Zadaća OK"> 17.5 / 20</td>
+										<td>24 / 30</td></tr>
+				</tbody>
+			</table>
+
+			&nbsp;<br/>
+			
+			
+		<!-- zadace -->
+
+		<b>Projekat:</b><br/>
+		<table cellspacing="0" cellpadding="2" border="0" id="zadace1622" class="zadace">
+			<thead>
+				<tr>
+		<td>Z1</td><td>Projekat</td>					<td><b>Ukupno bodova</b></td>
+				</tr>
+			</thead>
+			<tbody>
+								<td>&nbsp;</td>
+										<td>&nbsp;</td>
+										<td>0 / 30</td></tr>
+				</tbody>
+			</table>
+
+			&nbsp;<br/>
+			
+				
+	<!-- ispiti -->
+	
+	<b>Ispiti:</b><br/>
+	
+			<p>I parcijalni (30. 11. 2020): <b>16 bodova</b></p>
+					</td></tr>
+		</table>
+	
+	</td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">Copyright (c) 2006-2020 <a href="static/doc/CREDITS.txt">Vedran Ljubović i drugi</a><br>Elektrotehnički fakultet Sarajevo</p>
+
+</body>
+</html>
